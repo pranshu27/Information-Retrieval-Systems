@@ -42,4 +42,6 @@ the raw text files.
 
 3. Do not unzip the compressed files manually. Use the command, "make run path={path to the input query file}".
 It should do all the needful.
+
+4. Processed files from part 1 and output files can be found at: https://iitk-my.sharepoint.com/:f:/g/personal/pranshus21_iitk_ac_in/EvqhANfKZh5InUSK6pKpsDcBGFNkBE6Mb2pRrUs8e1XG9w?e=6Gu8Be
   
